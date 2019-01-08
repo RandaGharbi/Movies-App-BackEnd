@@ -1,0 +1,505 @@
+{
+	"status": 200,
+	"series": [
+		{
+			"_id": "5933363d6952846029bc19a7",
+			"imdbID": "tt5511582",
+			"Title": "Timeless",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MzgwMTg1N15BMl5BanBnXkFtZTgwMzUzMTU5OTE@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Action, Adventure, Drama",
+			"Path": "/forja/media/series/Timeless - tt5511582"
+		},
+		{
+			"_id": "594416dc69528460292fc825",
+			"imdbID": "tt5197820",
+			"Title": "Van Helsing",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2MTgxNjMwNF5BMl5BanBnXkFtZTgwMjU3OTA0OTE@._V1_SX300.jpg",
+			"imdbRating": 3,
+			"Genre": "Action, Drama, Fantasy",
+			"Path": "/forja/media/series/Van Helsing - tt5197820"
+		},
+		{
+			"_id": "593b31a96952846029f1d618",
+			"imdbID": "tt3843168",
+			"Title": "Z Nation",
+			"Year": "2014–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzg0NTE4NjMwN15BMl5BanBnXkFtZTgwOTY3NTc2NjE@._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Action, Comedy, Drama",
+			"Path": "/forja/media/series/Z Nation - tt3843168"
+		},
+		{
+			"_id": "59519f806952846029a9eef9",
+			"imdbID": "tt2306299",
+			"Title": "Vikings",
+			"Year": "2013–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTEzNzI3MDc0N15BMl5BanBnXkFtZTgwMzk1MzA5NzE@._V1_SX300.jpg",
+			"imdbRating": 4.5,
+			"Genre": "Action, Drama, History",
+			"Path": "/forja/media/series/Vikings - tt2306299"
+		},
+		{
+			"_id": "59414d3c69528460291e51f1",
+			"imdbID": "tt5651844",
+			"Title": "Travelers",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjhmOGM4MWItOTlkMy00NWZlLWE2MDctYzFlYTIyZmEzOTUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Sci-Fi",
+			"Path": "/forja/media/series/Travelers - tt5651844"
+		},
+		{
+			"_id": "5c157cd3db96d35d1c3244fc",
+			"imdbID": "tt1043813",
+			"Title": "Titans",
+			"Year": "2018–",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDc4Mjc4N15BMl5BanBnXkFtZTgwNjcyNTM0NjM@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Action, Adventure, Drama, Fantasy, Sci-Fi",
+			"Path": "/forja/media/series/Titans - tt1043813"
+		},
+		{
+			"_id": "5aabee97db96d35d1c48e854",
+			"imdbID": "tt4643084",
+			"Title": "Counterpart",
+			"Year": "2017–",
+			"Poster": "https://ia.media-imdb.com/images/M/MV5BMTcwNTM3OTQ4OV5BMl5BanBnXkFtZTgwMjgxMjEzNDM@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Drama, Sci-Fi, Thriller",
+			"Path": "/forja/media/series/Counterpart - tt4643084"
+		},
+		{
+			"_id": "598201dfee24bb07c9f3df0f",
+			"imdbID": "tt2249007",
+			"Title": "Ray Donovan",
+			"Year": "2013–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwMDY1OTI5MV5BMl5BanBnXkFtZTgwMjI3MzU2MjI@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Crime, Drama",
+			"Path": "/forja/media/series/Ray Donovan - tt2249007"
+		},
+		{
+			"_id": "5980cbeeee24bb07c9e719e7",
+			"imdbID": "tt6064882",
+			"Title": "Room 104",
+			"Year": "2017–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2ODg0MjU3NV5BMl5BanBnXkFtZTgwNzQwMTg3MjI@._V1_SX300.jpg",
+			"imdbRating": 0,
+			"Genre": "Comedy, Drama",
+			"Path": "/forja/media/series/Room 104 - tt6064882"
+		},
+		{
+			"_id": "592f37a4695284602991966a",
+			"imdbID": "tt3501584",
+			"Title": "iZombie",
+			"Year": "2015–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NDA1NDg4OF5BMl5BanBnXkFtZTgwMzU4MjA4MTI@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Comedy, Crime, Drama",
+			"Path": "/forja/media/series/iZombie - tt3501584"
+		},
+		{
+			"_id": "596e7845ee24bb07c981c9d0",
+			"imdbID": "tt3250026",
+			"Title": "Zoo",
+			"Year": "2015–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MjA3MzUwOF5BMl5BanBnXkFtZTgwNDU1MjMxNjE@._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Drama, Sci-Fi, Thriller",
+			"Path": "/forja/media/series/Zoo - tt3250026"
+		},
+		{
+			"_id": "59cfb160aebb525c7554127a",
+			"imdbID": "tt6226232",
+			"Title": "Young Sheldon",
+			"Year": "2017–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNWI4ZDYtODRlMS00YTgzLWI4YzYtZjdlNjZkODZhMTIyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SX300.jpg",
+			"imdbRating": 0,
+			"Genre": "Comedy",
+			"Path": "/forja/media/series/Young Sheldon - tt6226232"
+		},
+		{
+			"_id": "594262a86952846029240e62",
+			"imdbID": "tt4878326",
+			"Title": "Wynonna Earp",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMTg5OTcxOV5BMl5BanBnXkFtZTgwMTEwNjI0MjI@._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Action, Drama, Fantasy",
+			"Path": "/forja/media/series/Wynonna Earp - tt4878326"
+		},
+		{
+			"_id": "5903a391cf28e34fd6717eda",
+			"imdbID": "tt4168956",
+			"Title": "Wrecked",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDVmZTZiNzktOGNlZS00NmIyLWEzOTUtOGRmNGE2M2VlZTI5XkEyXkFqcGdeQXVyNjU4ODUxMDA@._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Comedy",
+			"Path": "/forja/media/series/Wrecked - tt4168956"
+		},
+		{
+			"_id": "59d66f2aaebb525c75c1ae32",
+			"imdbID": "tt3556920",
+			"Title": "Wolf Hall",
+			"Year": "2015–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNTc4ODIzMTZeQTJeQWpwZ15BbWU4MDI0OTA5Njcx._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Drama, History",
+			"Path": "/forja/media/series/Wolf Hall - tt3556920"
+		},
+		{
+			"_id": "59833172ee24bb07c9ffdc9c",
+			"imdbID": "tt5734140",
+			"Title": "Will",
+			"Year": "2017–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWJlMmRiMzUtYjYyYy00MDgxLWIyOGEtZWE3YWVkOWFlYjVkXkEyXkFqcGdeQXVyNDU4Njg2MzM@._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Drama",
+			"Path": "/forja/media/series/Will - tt5734140"
+		},
+		{
+			"_id": "591b9a82695284602942630d",
+			"imdbID": "tt1703925",
+			"Title": "Wilfred",
+			"Year": "2011–2014",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMTk4NDIyMV5BMl5BanBnXkFtZTgwMDQ0MTAyMjE@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Comedy, Drama, Mystery",
+			"Path": "/forja/media/series/Wilfred - tt1703925"
+		},
+		{
+			"_id": "5903a383cf28e34fd6717ed1",
+			"imdbID": "tt1358522",
+			"Title": "White Collar",
+			"Year": "2009–2014",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDI5MDgyMTYzNF5BMl5BanBnXkFtZTcwMjAwNzk1Mw@@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Comedy, Crime, Drama",
+			"Path": "/forja/media/series/White Collar - tt1358522"
+		},
+		{
+			"_id": "5903a299cf28e34fd6717e72",
+			"imdbID": "tt0475784",
+			"Title": "Westworld",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyODk5NTc2MjNeQTJeQWpwZ15BbWU4MDQ5NTgwOTkx._V1_SX300.jpg",
+			"imdbRating": 4.5,
+			"Genre": "Drama, Mystery, Sci-Fi",
+			"Path": "/forja/media/series/Westworld - tt0475784"
+		},
+		{
+			"_id": "5992d7a4ee24bb07c9a6a939",
+			"imdbID": "tt2618986",
+			"Title": "Wayward Pines",
+			"Year": "2015–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwNzU2MTE2M15BMl5BanBnXkFtZTgwODUxOTI5ODE@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Drama, Mystery, Sci-Fi",
+			"Path": "/forja/media/series/Wayward Pines - tt2618986"
+		},
+		{
+			"_id": "5943ab3069528460292be662",
+			"imdbID": "tt3186130",
+			"Title": "Vinyl",
+			"Year": "2016",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1Nzc3Mzk2NF5BMl5BanBnXkFtZTgwMjUzNTA1NzE@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Drama, Music",
+			"Path": "/forja/media/series/Vinyl - tt3186130"
+		},
+		{
+			"_id": "59f0cbfedb96d35d1c00272c",
+			"imdbID": "tt5137338",
+			"Title": "Victoria",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzE0YzhlOTEtOWRhNy00ZDA0LWIyNTQtNTBiODRhZTRjZmJmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Biography, Drama, History",
+			"Path": "/forja/media/series/Victoria - tt5137338"
+		},
+		{
+			"_id": "59d29b8faebb525c7583ba9b",
+			"imdbID": "tt3766376",
+			"Title": "Vice Principals",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2MjY0ODI4M15BMl5BanBnXkFtZTgwNTY3MjQyMzI@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Comedy",
+			"Path": "/forja/media/series/Vice Principals - tt3766376"
+		},
+		{
+			"_id": "595974d469528460291bf6b3",
+			"imdbID": "tt2384811",
+			"Title": "Utopia",
+			"Year": "2013–2014",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwMTA5NDc5M15BMl5BanBnXkFtZTgwMjQ4MTY0MjE@._V1_SX300.jpg",
+			"imdbRating": 4.5,
+			"Genre": "Drama, Mystery, Sci-Fi",
+			"Path": "/forja/media/series/Utopia - tt2384811"
+		},
+		{
+			"_id": "59727d28ee24bb07c96423e2",
+			"imdbID": "tt1553656",
+			"Title": "Under the Dome",
+			"Year": "2013–2015",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Drama, Mystery, Sci-Fi",
+			"Path": "/forja/media/series/Under the Dome - tt1553656"
+		},
+		{
+			"_id": "598084a1ee24bb07c9e35f25",
+			"imdbID": "tt2568204",
+			"Title": "Tyrant",
+			"Year": "2014–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzY4NTg3MzEzMV5BMl5BanBnXkFtZTgwODU5ODgxOTE@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Action, Drama, Thriller",
+			"Path": "/forja/media/series/Tyrant - tt2568204"
+		},
+		{
+			"_id": "5952e7c46952846029f4f2f6",
+			"imdbID": "tt4093826",
+			"Title": "Twin Peaks",
+			"Year": "2017–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5MTkzNTY5Ml5BMl5BanBnXkFtZTgwNjU4MzY1MTI@._V1_SX300.jpg",
+			"imdbRating": 5,
+			"Genre": "Crime, Drama, Mystery",
+			"Path": "/forja/media/series/Twin Peaks - tt4093826"
+		},
+		{
+			"_id": "596b3f2fee24bb07c9cbdbad",
+			"imdbID": "tt0098936",
+			"Title": "Twin Peaks",
+			"Year": "1990–1991",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExNzk2NjcxNTNeQTJeQWpwZ15BbWU4MDcxOTczOTIx._V1_SX300.jpg",
+			"imdbRating": 4.5,
+			"Genre": "Crime, Drama, Mystery",
+			"Path": "/forja/media/series/Twin Peaks - tt0098936"
+		},
+		{
+			"_id": "5932ff5c6952846029b89004",
+			"imdbID": "tt2356777",
+			"Title": "True Detective",
+			"Year": "2014–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTMwODI1OV5BMl5BanBnXkFtZTgwMDIzMTQ0NTE@._V1_SX300.jpg",
+			"imdbRating": 4.5,
+			"Genre": "Crime, Drama, Mystery",
+			"Path": "/forja/media/series/True Detective - tt2356777"
+		},
+		{
+			"_id": "593c5f6c6952846029fc5ca9",
+			"imdbID": "tt4946972",
+			"Title": "Training Day",
+			"Year": "2017",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI5ODAwNTczNF5BMl5BanBnXkFtZTgwMzk3MzIwMTI@._V1_SX300.jpg",
+			"imdbRating": 3,
+			"Genre": "Action, Crime, Drama",
+			"Path": "/forja/media/series/Training Day - tt4946972"
+		},
+		{
+			"_id": "5912cac369528460291cd85f",
+			"imdbID": "tt5555260",
+			"Title": "This Is Us",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMTcyMTE0MF5BMl5BanBnXkFtZTgwOTk1ODY5MDI@._V1_SX300.jpg",
+			"imdbRating": 4.5,
+			"Genre": "Comedy, Drama",
+			"Path": "/forja/media/series/This is us - tt5555260"
+		},
+		{
+			"_id": "592b32dc695284602976bb9b",
+			"imdbID": "tt3655448",
+			"Title": "The Young Pope",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODA2NjAxMV5BMl5BanBnXkFtZTgwMTUzOTA4MDI@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Drama",
+			"Path": "/forja/media/series/The Young Pope - tt3655448"
+		},
+		{
+			"_id": "59747303ee24bb07c9a7982b",
+			"imdbID": "tt0106179",
+			"Title": "The X-Files",
+			"Year": "1993–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODc5MDA0MzgyOF5BMl5BanBnXkFtZTgwNjc5NjY3NzE@._V1_SX300.jpg",
+			"imdbRating": 4.5,
+			"Genre": "Drama, Mystery, Sci-Fi",
+			"Path": "/forja/media/series/The X-Files - tt0106179"
+		},
+		{
+			"_id": "5903a1b2cf28e34fd6717e0d",
+			"imdbID": "tt5705956",
+			"Title": "The White Princess",
+			"Year": "2017–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0MTc3ODkxOV5BMl5BanBnXkFtZTgwMjEwNTQ0MTI@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Drama",
+			"Path": "/forja/media/series/The White Princess - tt5705956"
+		},
+		{
+			"_id": "5943affc69528460292bfa9a",
+			"imdbID": "tt3487410",
+			"Title": "The Whispers",
+			"Year": "2015",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTQyNjcyNjE3N15BMl5BanBnXkFtZTgwOTY1MjM4NjE@._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Drama, Horror, Mystery",
+			"Path": "/forja/media/series/The Whispers - tt3487410"
+		},
+		{
+			"_id": "59596a1f695284602919ad74",
+			"imdbID": "tt1520211",
+			"Title": "The Walking Dead",
+			"Year": "2010–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMDk1NDYyMV5BMl5BanBnXkFtZTgwNjE1NDU4MDI@._V1_SX300.jpg",
+			"imdbRating": 4.5,
+			"Genre": "Drama, Horror, Thriller",
+			"Path": "/forja/media/series/The Walking Dead - tt1520211"
+		},
+		{
+			"_id": "5975eef2ee24bb07c9dc7f30",
+			"imdbID": "tt1405406",
+			"Title": "The Vampire Diaries",
+			"Year": "2009–2017",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2IwMjAxMDktN2MyNi00Mzk1LWJmNmUtYWVmMTA2YzMyODIxXkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Drama, Fantasy, Horror",
+			"Path": "/forja/media/series/The Vampire Diaries - tt1405406"
+		},
+		{
+			"_id": "59fa5fc8db96d35d1c5208eb",
+			"imdbID": "tt0758790",
+			"Title": "The Tudors",
+			"Year": "2007–2010",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjg5NmU2NTktMTkwNC00ZGQ3LThmODgtM2VlY2Q3MmE3MGZjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+			"imdbRating": 4,
+			"Genre": "Drama, History, Romance",
+			"Path": "/forja/media/series/The Tudors - tt0758790"
+		},
+		{
+			"_id": "5970e6d4ee24bb07c911db88",
+			"imdbID": "tt2660734",
+			"Title": "The Tomorrow People",
+			"Year": "2013–2014",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyMDA4NjY0Nl5BMl5BanBnXkFtZTgwMDgzNDIxMDE@._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Action, Drama, Sci-Fi",
+			"Path": "/forja/media/series/The Tomorrow People - tt2660734"
+		},
+		{
+			"_id": "5ac15734db96d35d1ca2828a",
+			"imdbID": "tt2708480",
+			"Title": "The Terror",
+			"Year": "2018–",
+			"Poster": "https://ia.media-imdb.com/images/M/MV5BMTAyMjEzMzg0NTleQTJeQWpwZ15BbWU4MDY5NDE4OTQz._V1_SX300.jpg",
+			"imdbRating": 4.5,
+			"Genre": "Drama, Horror",
+			"Path": "/forja/media/series/The Terror - tt2708480"
+		},
+		{
+			"_id": "593580906952846029c73b56",
+			"imdbID": "tt2654620",
+			"Title": "The Strain",
+			"Year": "2014–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NTA4OTgxOF5BMl5BanBnXkFtZTgwMDA0ODM2OTE@._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Drama, Horror, Thriller",
+			"Path": "/forja/media/series/The Strain - tt2654620"
+		},
+		{
+			"_id": "59b2c95e1337764c48dd0027",
+			"imdbID": "tt6068620",
+			"Title": "The State",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjIxOWM3NzQtODEzZC00YTlmLWE0NmUtMmYzNmUzNTVlOTNmXkEyXkFqcGdeQXVyNjk4ODU3NTA@._V1_.jpg",
+			"imdbRating": 4,
+			"Genre": "Drama",
+			"Path": "/forja/media/series/The State - tt6068620"
+		},
+		{
+			"_id": "59843f40ee24bb07c90a9d28",
+			"imdbID": "tt0141842",
+			"Title": "The Sopranos",
+			"Year": "1999–2007",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+			"imdbRating": 4.5,
+			"Genre": "Crime, Drama",
+			"Path": "/forja/media/series/The Sopranos - tt0141842"
+		},
+		{
+			"_id": "593d677d695284602908f748",
+			"imdbID": "tt3839822",
+			"Title": "The Son",
+			"Year": "2017–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA4OTY4ODgyMDNeQTJeQWpwZ15BbWU4MDUzOTc2ODEy._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Drama, Western",
+			"Path": "/forja/media/series/The Son - tt3839822"
+		},
+		{
+			"_id": "5982e61aee24bb07c9fc956f",
+			"imdbID": "tt6048596",
+			"Title": "The Sinner",
+			"Year": "2017–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMjcxMjM3OV5BMl5BanBnXkFtZTgwMTUwODQwMzI@._V1_SX300.jpg",
+			"imdbRating": 3,
+			"Genre": "Thriller",
+			"Path": "/forja/media/series/The Sinner - tt6048596"
+		},
+		{
+			"_id": "59431fe06952846029296178",
+			"imdbID": "tt1051220",
+			"Title": "The Shannara Chronicles",
+			"Year": "2016–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNjEwOTY4M15BMl5BanBnXkFtZTgwNTA2ODk0NzE@._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Adventure, Fantasy, Sci-Fi",
+			"Path": "/forja/media/series/The Shannara Chronicles - tt1051220"
+		},
+		{
+			"_id": "59431b1e695284602929450c",
+			"imdbID": "tt3597912",
+			"Title": "The Royals",
+			"Year": "2015–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwOTk2OTM0ODheQTJeQWpwZ15BbWU4MDQyMjc5NjQx._V1_SX300.jpg",
+			"imdbRating": 3.5,
+			"Genre": "Drama",
+			"Path": "/forja/media/series/The Royals - tt3597912"
+		},
+		{
+			"_id": "5aa96cf2db96d35d1cfae110",
+			"imdbID": "tt6483832",
+			"Title": "The Resident",
+			"Year": "2018–",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0ODg1NjMzOF5BMl5BanBnXkFtZTgwMDgxMjEzNDM@._V1_SX300.jpg",
+			"imdbRating": 3,
+			"Genre": "Drama",
+			"Path": "/forja/media/series/The Resident - tt6483832"
+		},
+		{
+			"_id": "5aef0ef5db96d35d1ca99660",
+			"imdbID": "tt6656238",
+			"Title": "The Rain",
+			"Year": "2018–",
+			"Poster": "https://ia.media-imdb.com/images/M/MV5BOGQ3YTg3ZTQtM2FlYS00ODc0LWI2ZGYtMTYwZGQ4MzcxYjZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+			"imdbRating": 3,
+			"Genre": "Thriller",
+			"Path": "/forja/media/series/The Rain - tt6656238"
+		},
+		{
+			"_id": "5ba6539ddb96d35d1c0115cc",
+			"imdbID": "tt6110648",
+			"Title": "The Purge",
+			"Year": "2018–",
+			"Poster": "https://m.media-amazon.com/images/M/MV5BYzg2ZDQ3MjctYTQxYy00NzljLWE5MTgtYzJiMmM5ZTMyYjNkXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SX300.jpg",
+			"imdbRating": 0,
+			"Genre": "Action, Horror, Sci-Fi",
+			"Path": "/forja/media/series/The Purge - tt6110648"
+		}
+	]
+}

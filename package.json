@@ -1,0 +1,30 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "description": "workshop oyez t",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js --exec babel-node"
+  },
+  "keywords": [
+    "apollo-server*"
+  ],
+  "author": "Med Gannouni",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.3.1",
+    "apollo-datasource-rest": "^0.1.4",
+    "casual": "^1.5.19",
+    "cors": "^2.8.4",
+    "graphql": "^0.13.2",
+    "graphql-tools": "^2.13.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-rc.1",
+    "@babel/node": "^7.0.0-rc.1",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-rc.1",
+    "@babel/preset-env": "^7.0.0-rc.1",
+    "nodemon": "^1.12.1"
+  }
+}
